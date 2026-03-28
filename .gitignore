@@ -1,0 +1,7 @@
+# Ignore unnecessary files
+.hintrc
+website-demo-image/
+
+# Ignore extra files
+index.txt
+LICENSE
