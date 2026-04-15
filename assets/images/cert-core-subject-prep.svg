@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500" role="img" aria-labelledby="title desc">
+  <title id="title">Core Subject Prep Certificate</title>
+  <desc id="desc">Certificate preview card for Core Subject Prep.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#eff6ff"/>
+      <stop offset="50%" stop-color="#dbeafe"/>
+      <stop offset="100%" stop-color="#bfdbfe"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#2563eb"/>
+      <stop offset="100%" stop-color="#06b6d4"/>
+    </linearGradient>
+  </defs>
+  <rect width="800" height="500" rx="32" fill="url(#bg)"/>
+  <rect x="36" y="36" width="728" height="428" rx="28" fill="#f8fbff" stroke="#93c5fd" stroke-width="4"/>
+  <circle cx="116" cy="104" r="34" fill="#eff6ff" stroke="#3b82f6" stroke-width="6"/>
+  <path d="M100 110l16-22 16 22-16 12z" fill="#1d4ed8"/>
+  <text x="170" y="92" fill="#1e3a8a" font-size="22" font-family="Segoe UI, Arial, sans-serif" font-weight="700">AlgoPrep Certification</text>
+  <text x="170" y="122" fill="#1d4ed8" font-size="18" font-family="Segoe UI, Arial, sans-serif">Core CS subjects and fundamentals</text>
+  <rect x="72" y="164" width="656" height="10" rx="5" fill="url(#accent)"/>
+  <text x="72" y="232" fill="#111827" font-size="46" font-family="Georgia, Times New Roman, serif" font-weight="700">Core Subject Prep</text>
+  <text x="72" y="306" fill="#4b5563" font-size="24" font-family="Segoe UI, Arial, sans-serif">DBMS, OS, CN and interview revision</text>
+  <rect x="72" y="368" width="230" height="48" rx="24" fill="#0f172a"/>
+  <text x="118" y="399" fill="#ffffff" font-size="20" font-family="Segoe UI, Arial, sans-serif" font-weight="700">Issued in 2025</text>
+  <text x="566" y="403" fill="#1d4ed8" font-size="28" font-family="Segoe UI, Arial, sans-serif" font-weight="700">AlgoPrep</text>
+</svg>
